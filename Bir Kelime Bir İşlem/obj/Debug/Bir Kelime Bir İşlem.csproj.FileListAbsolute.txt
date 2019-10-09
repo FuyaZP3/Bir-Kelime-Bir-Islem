@@ -1,0 +1,68 @@
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.pdb
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Interop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csprojAssemblyReference.cache
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Interop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.ResolveComReference.cache
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.GirisEkrani.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.IlkGiris.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Soru_Islem.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Properties.Resources.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Soru_Kelime.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.GenerateResource.cache
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.CoreCompileInputs.cache
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.exe
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.pdb
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Kural_Islem.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Kural_Kelime.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Menu.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Oyuncu_Bilgileri.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\StackBlur.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\System.Drawing.Common.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.CopyComplete
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Sonuc.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Klavye.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Klavye_Sayi.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.CevapYok_Kelime.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.CevapYok_Islem.resources
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Interop.WMPLib.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\AxInterop.WMPLib.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Interop.WMPLib.dll
+K:\Windows Form Applications\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\AxInterop.WMPLib.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.exe
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Bir Kelime Bir İşlem.pdb
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\StackBlur.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\System.Drawing.Common.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Interop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\Interop.WMPLib.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\AxInterop.WMPLib.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Interop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Interop.WMPLib.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\AxInterop.WMPLib.dll
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.ResolveComReference.cache
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.CevapYok_Islem.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.CevapYok_Kelime.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.GirisEkrani.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.IlkGiris.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Klavye.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Klavye_Sayi.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Kural_Islem.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Kural_Kelime.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Menu.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Oyuncu_Bilgileri.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Sonuc.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Soru_Islem.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Properties.Resources.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir_Kelime_Bir_İşlem.Soru_Kelime.resources
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.GenerateResource.cache
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.CoreCompileInputs.cache
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csproj.CopyComplete
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.exe
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.pdb
+K:\Windows Form Applications\201713709004_Yasin_Ay\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\Bir Kelime Bir İşlem.csprojAssemblyReference.cache
